@@ -1,4 +1,4 @@
-![](https://media2.giphy.com/media/EEy7Qip0YZ27PPtC7y/source.gif)
+![](https://css-challenges.com/wp-content/uploads/2018/09/Good-bye-hello-world.gif)
 
 <!--
 **rahulhegde99/rahulhegde99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
