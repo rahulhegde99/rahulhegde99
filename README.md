@@ -1,4 +1,4 @@
-![](Hello_World.gif)
+![](https://raw.githubusercontent.com/rahulhegde99/rahulhegde99/master/Hello_World.gif)
 
 <!--
 **rahulhegde99/rahulhegde99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
