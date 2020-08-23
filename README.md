@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://thumbs.gfycat.com/FatherlyVastAlbertosaurus-size_restricted.gif)
+![](https://media2.giphy.com/media/EEy7Qip0YZ27PPtC7y/source.gif)
 
 <!--
 **rahulhegde99/rahulhegde99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
