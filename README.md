@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 ## I am Rahul Hegde
 
-- 🙎🏾‍♂️ I'm a web, mobile and game developer.
+- 🙎🏾‍♂️ I'm a web, mobile and game developer with a passion for data science and visualisation.
 - 🔭  I’m currently working on a Mobile App Development project in Flutter.
 - 👯 I’m looking to collaborate with any interesting open source project. 
 - 📫 You can reach me on:
