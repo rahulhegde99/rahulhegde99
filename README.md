@@ -1,4 +1,4 @@
-![](https://css-challenges.com/wp-content/uploads/2020/07/Sliding-world.gif)
+![](Hello_World.gif)
 
 <!--
 **rahulhegde99/rahulhegde99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
