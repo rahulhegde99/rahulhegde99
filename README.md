@@ -20,4 +20,4 @@ Here are some ideas to get you started:-->
  [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)][2]
  [![website](https://img.icons8.com/fluent/48/000000/domain.png)][3]
  [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)][5]
- <a href="https://auth.geeksforgeeks.org/user/rahulhegde97/articles/"><img src="https://pbs.twimg.com/profile_images/1138375574726955008/1fNUyEdv_400x400.png" width="50"></a>
+ <a href="https://auth.geeksforgeeks.org/user/rahulhegde97/articles/"><img src="QNHrwL2q_400x400.jpg" width="50"></a>
