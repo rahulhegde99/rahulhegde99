@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 🙎🏾‍♂️ I'm a web, mobile and game developer with a passion for data science and visualisation.
 - 🔭  I’m currently working on a Mobile App Development project in Flutter.
 - 👯 I’m looking to collaborate with any interesting open source project. 
-- 💼 I'm looking for full-time jobs starting from fall of 2021 or internships that can convert to full time jobs. Hire me (Feel free to schedule an interview. I'm always free :)).
+- 💼 I'm looking for full-time jobs starting from fall of 2021 or internships that can convert to full time jobs. Hire me (Feel free to schedule an interview).
 - 📫 You can reach me on:
 
 
