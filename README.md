@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 
 [2]: https://www.linkedin.com/in/rahul-hegde-0955391a5/
 [3]: https://rahulhegde.ml/
-[5]: https://medium.com/@rahulhegde97
+[5]: https://rahul-hegde.medium.com/
 
  [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)][2]
  [![website](https://img.icons8.com/fluent/48/000000/domain.png)][3]
