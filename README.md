@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 
 
 [2]: https://www.linkedin.com/in/rahul-hegde-0955391a5/
-[3]: https://rahulhegdedesign.web.app/
+[3]: https://therahulhegde.web.app/
 [5]: https://rahul-hegde.medium.com/
 
  [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)][2]
