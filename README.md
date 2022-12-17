@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-## I am Rahul Hegde ([Résumé](https://drive.google.com/file/d/1VyX8SFUbKMKnoE1OzA9OMJIH8Vi2FctJ/view)) ([Portfolio](https://rahulhegdedesign.web.app/)) 
+## I am Rahul Hegde ([Portfolio](https://therahulhegde.web.app/)) 
 
 - 🙎🏾‍♂️ I'm a web, mobile, game developer and a product designer.
 - 🔭  I’m currently working on a Mobile App Development project in Flutter.
