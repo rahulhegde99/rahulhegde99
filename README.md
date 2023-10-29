@@ -5,16 +5,13 @@
 
 Here are some ideas to get you started:-->
 
-## I am Rahul Hegde ([Portfolio](https://therahulhegde.web.app/)) 
+## I am Rahul Hegde ([Blog](https://rahulhegde.vercel.app/)) 
 
-- 🙎🏾‍♂️ I'm a web, mobile, game developer and a product designer.
-- 🔭  I’m currently working on a Mobile App Development project in Flutter.
-- 👯 I’m looking to collaborate with any interesting open source project. 
-- 💼 I'm looking for full-time jobs starting from fall of 2021 or internships that can convert to full time jobs. Hire me (Feel free to schedule an interview).
+- 🙎🏾‍♂️ I'm a product designer, web developer and musician.
 - 📫 You can reach me on:
 
 
-[2]: https://www.linkedin.com/in/rahul-hegde-0955391a5/
+[2]: https://www.linkedin.com/in/rahulhegde99/
 [3]: https://therahulhegde.web.app/
 [5]: https://rahul-hegde.medium.com/
 
